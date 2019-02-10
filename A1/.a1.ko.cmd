@@ -1,0 +1,1 @@
+cmd_/home/osc/OS_Assignments/ch2/a1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/osc/OS_Assignments/ch2/a1.ko /home/osc/OS_Assignments/ch2/a1.o /home/osc/OS_Assignments/ch2/a1.mod.o
